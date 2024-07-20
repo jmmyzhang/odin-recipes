@@ -9,6 +9,12 @@ h1 {
     font-size: 72px;
 }
 
+#papelo {
+    height: 72px;
+    width: auto;
+    display: inline-block;
+}
+
 button {
     background-color: white;
     display: block;
