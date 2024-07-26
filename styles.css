@@ -44,3 +44,21 @@ img {
     width: 300px;
     height: auto;
 }
+
+.recipe {
+    margin-bottom: 48px;
+    display: flex;
+    justify-content: center;
+}
+
+.recipetext {
+    margin-left: 25%;
+}
+
+.recipeimage {
+    margin-right: 25%;
+}
+
+.recipep {
+    width: 320px;
+}
